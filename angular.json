@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/auth-app/browser",
+            "outputPath": "dist/auth-app",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
